@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Marcelo Carrara
-**Aspiring Solutions Architect · Cloud Computing · Paraná, Brazil**
+# 👋 Olá, sou Marcelo Carrara
+**Futuro Arquiteto de Soluções · Cloud Computing · Paraná, Brasil**
 
 ---
 
-## 🚀 About me
+## 🚀 Sobre mim
 
-> 🎯 **Career goal:** Transitioning into Cloud Computing with the goal of becoming a **Solutions Architect**. Passionate about designing scalable, secure, and cost-efficient cloud infrastructure on AWS.
+> 🎯 **Objetivo:** Fazer transição de carreira para Cloud Computing com foco em me tornar **Arquiteto de Soluções**. Apaixonado por projetar infraestruturas em nuvem escaláveis, seguras e eficientes na Nuvem.
 
-I come from an competitive game(League of Legends) background and have been teaching myself programming and cloud fundamentals. Based in Prudentópolis, Paraná, building skills one service at a time.
+Venho do universo dos jogos competitivos (League of Legends) e estou me dedicando ao aprendizado de programação e fundamentos de nuvem. Baseado em Prudentópolis, Paraná, construindo conhecimento um serviço por vez.
 
 ---
 
-## ☁️ Cloud & AWS *(learning)*
+## ☁️ Cloud & AWS *(aprendendo e aprimorando)*
+
 ![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonaws&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
@@ -22,29 +23,33 @@ I come from an competitive game(League of Legends) background and have been teac
 
 ---
 
-## 🛠️ Programming
+## 🛠️ Programação
+
 ![Python](https://img.shields.io/badge/Python-blue)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 
 ---
 
-## 📚 Currently learning
-- AWS core services & cloud architecture patterns
-- Cloud Adoption Framework (CAF) & Well-Architected Framework (WAF)
-- Networking fundamentals (VPC, subnets, routing, security groups)
-- Serverless & event-driven architectures (Lambda)
-- Git, GitHub & version control workflows
+## 📚 Atualmente aprendendo
+
+- Serviços principais da AWS e padrões de arquitetura em nuvem
+- Cloud Adoption Framework (CAF) e Well-Architected Framework (WAF)
+- Fundamentos de redes (VPC, sub-redes, roteamento, grupos de segurança)
+- Arquiteturas serverless e orientadas a eventos (Lambda)
+- Git, GitHub e fluxos de controle de versão
 
 ---
 
-## ⚡ Interests
-- Cloud architecture & solution design
-- Artificial intelligence & large language models
-- Infrastructure automation & IaC
+## ⚡ Interesses
+
+- Arquitetura de soluções em nuvem
+- Inteligência artificial
+- Automação de infraestrutura
 - Terraform, Kubernetes
 
 ---
 
-## 📫 Contact
+## 📫 Contato
+
 - LinkedIn: https://www.linkedin.com/in/marcelo-carrara-tech/
 - Email: marcelo.carrara96@hotmail.com
