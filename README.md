@@ -14,7 +14,7 @@
 
 > 🎯 **Objetivo:** Fazer transição de carreira para Cloud Computing com foco em me tornar **Arquiteto de Soluções**. Apaixonado por projetar infraestruturas em nuvem escaláveis, seguras e eficientes na AWS.
 
-Venho do universo dos jogos competitivos (League of Legends) e estou me dedicando ao aprendizado de programação e fundamentos de nuvem. Baseado em Prudentópolis, Paraná — construindo conhecimento um serviço por vez.
+Venho do universo dos jogos competitivos (League of Legends) e estou me dedicando ao aprendizado de programação e fundamentos de nuvem. Baseado em Prudentópolis, Paraná, construindo conhecimento um serviço por vez.
 
 ---
 
@@ -59,7 +59,7 @@ Venho do universo dos jogos competitivos (League of Legends) e estou me dedicand
 
 - 🏛️ Arquitetura de soluções em nuvem
 - 🤖 Inteligência artificial e modelos de linguagem (LLMs)
-- ⚙️ Automação de infraestrutura e IaC
+- ⚙️ Automação de infraestrutura
 - 🚀 Terraform, Kubernetes
 
 ---
