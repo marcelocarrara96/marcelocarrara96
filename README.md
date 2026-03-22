@@ -39,7 +39,6 @@ Venho do universo dos jogos competitivos (League of Legends) e estou me dedicand
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
