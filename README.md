@@ -17,6 +17,8 @@
 Venho do universo dos jogos competitivos (League of Legends) e estou me dedicando ao aprendizado de programação e fundamentos de nuvem. Baseado em Prudentópolis, Paraná, construindo conhecimento um serviço por vez.
 
 ---
+## Portfolio (https://github.com/marcelocarrara96/Portfolio)
+
 
 ## ☁️ Cloud & AWS *(aprendendo)*
 
