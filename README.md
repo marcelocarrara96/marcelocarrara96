@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900,232F3E&height=200&section=header&text=Marcelo%20Carrara&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=500&lines=Aspiring+Solutions+Architect;Learning+AWS+%26+Cloud+Computing;Building+one+service+at+a+time+☁️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=500&lines=Always+learning%2C+always+building;Passionate+about+Cloud+%26+Technology;Turning+ideas+into+infrastructure+%E2%98%81%EF%B8%8F;One+service+at+a+time)](https://git.io/typing-svg)
 
 **Futuro Arquiteto de Soluções · Cloud Computing · Paraná, Brasil**
 
