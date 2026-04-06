@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=500&lines=Always+learning%2C+always+building;Passionate+about+Cloud+%26+Technology;Turning+ideas+into+infrastructure+%E2%98%81%EF%B8%8F;One+service+at+a+time)](https://git.io/typing-svg)
 
-**Futuro Arquiteto de Soluções · Cloud Computing · Paraná, Brasil**
+**Cloud Computing · Paraná, Brasil**
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-> 🎯 **Objetivo:** Fazer transição de carreira para Cloud Computing com foco em me tornar **Arquiteto de Soluções**. Apaixonado por projetar infraestruturas em nuvem escaláveis, seguras e eficientes na AWS.
+> 🎯 **Objetivo:** Fazer transição de carreira para Cloud Computing com foco em me tornar **Analista de infraestrutura Jr**. Apaixonado por projetar infraestruturas em nuvem escaláveis, seguras e eficientes na AWS.
 
 Venho do universo dos jogos competitivos (League of Legends) e estou me dedicando ao aprendizado de programação e fundamentos de nuvem. Baseado em Prudentópolis, Paraná, construindo conhecimento um serviço por vez.
 
