@@ -32,6 +32,10 @@ Venho do universo dos jogos competitivos (League of Legends) e estou me dedicand
 ![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E?style=for-the-badge)
 ![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/AWS-SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
