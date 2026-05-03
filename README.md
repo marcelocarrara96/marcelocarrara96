@@ -14,7 +14,7 @@
 
 > 🎯 **Objetivo:** Fazer transição de carreira para Cloud Computing com foco em me tornar **Cloud Analyst / Suporte NOC AWS**. Apaixonado por projetar infraestruturas em nuvem escaláveis, seguras e eficientes na AWS.
 
-Saí dos servidores do League of Legends para os servidores da AWS. Baseado em Prudentópolis, Paraná, me dedico diariamente a arquitetura de infraestrutura em nuvem; porque na nuvem, assim como nos jogos, a evolução nunca para. Cada lab concluído é um passo a mais em direção a construir sistemas escaláveis, seguros e eficientes.
+Saí dos servidores do League of Legends para os servidores da AWS. Me dedico diariamente a arquitetura de infraestrutura em nuvem; porque na nuvem, assim como nos jogos, a evolução nunca para. Cada lab concluído é um passo a mais em direção a construir sistemas escaláveis, seguros e eficientes.
 
 ---
 
