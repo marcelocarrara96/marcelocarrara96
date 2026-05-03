@@ -12,30 +12,39 @@
 
 ## 🚀 Sobre mim
 
-> 🎯 **Objetivo:** Fazer transição de carreira para Cloud Computing com foco em me tornar **Analista de infraestrutura Jr**. Apaixonado por projetar infraestruturas em nuvem escaláveis, seguras e eficientes na AWS.
+> 🎯 **Objetivo:** Fazer transição de carreira para Cloud Computing com foco em me tornar **Cloud Analyst / Suporte NOC AWS**. Apaixonado por projetar infraestruturas em nuvem escaláveis, seguras e eficientes na AWS.
 
 Venho do universo dos jogos competitivos (League of Legends) e estou me dedicando ao aprendizado de programação e fundamentos de nuvem. Baseado em Prudentópolis, Paraná, construindo conhecimento um serviço por vez.
 
 ---
-## Portfolio: Estou documentando meus projetos de infraestrutura neste repositório:
-- [📁 Portfolio AWS](https://github.com/marcelocarrara96/Portfolio)
 
+## 📁 Portfólio
+
+Estou documentando todos os meus projetos práticos de infraestrutura AWS neste repositório:
+
+- [☁️ Portfolio AWS](https://github.com/marcelocarrara96/Portfolio)
+
+---
 
 ## ☁️ Cloud & AWS *(aprendendo)*
 
 <div align="center">
 
 ![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EBS](https://img.shields.io/badge/AWS-EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E?style=for-the-badge)
-![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![ELB](https://img.shields.io/badge/AWS-ELB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SNS](https://img.shields.io/badge/AWS-SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/AWS-Systems_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/AWS-Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E?style=for-the-badge)
+![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -54,8 +63,12 @@ Venho do universo dos jogos competitivos (League of Legends) e estou me dedicand
 ## 📚 Atualmente aprendendo
 
 - ☁️ Serviços principais da AWS e padrões de arquitetura em nuvem
-- 📋 Cloud Adoption Framework (CAF) e Well-Architected Framework (WAF)
+- 🔐 Gerenciamento de identidade e acesso com **IAM** (usuários, grupos, políticas)
+- 🗄️ Bancos de dados gerenciados com **RDS MySQL** em arquitetura **Multi-AZ**
+- ⚖️ Alta disponibilidade com **Auto Scaling** e **Elastic Load Balancer**
+- 🖥️ Gerenciamento de instâncias com **AWS Systems Manager** (Run Command, Session Manager, Parameter Store)
 - 🌐 Fundamentos de redes (VPC, sub-redes, roteamento, grupos de segurança)
+- 📋 Cloud Adoption Framework (CAF) e Well-Architected Framework (WAF)
 - ⚡ Arquiteturas serverless e orientadas a eventos (Lambda)
 - 🔧 Git, GitHub e fluxos de controle de versão
 
