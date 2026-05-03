@@ -14,7 +14,7 @@
 
 > 🎯 **Goal:** Transitioning into Cloud Computing with a focus on becoming a **Cloud Analyst / AWS NOC Support**. Passionate about designing scalable, secure, and efficient cloud infrastructures on AWS.
 
-I went from League of Legends servers to AWS servers. Based in Prudentópolis, Paraná, I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like in competitive gaming, the grind never stops. Every lab completed is one step closer to building scalable, secure, and efficient systems.
+I went from League of Legends servers to AWS servers. I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like in competitive gaming, the grind never stops. Every lab completed is one step closer to building scalable, secure, and efficient systems.
 
 ---
 
