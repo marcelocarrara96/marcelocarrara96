@@ -12,9 +12,9 @@
 
 ## 🚀 About me
 
-> 🎯 **Goal:** Transitioning into Cloud Computing with a focus on becoming a **Cloud Analyst / AWS NOC Support**. Passionate about designing scalable, secure, and efficient cloud infrastructures on AWS.
+> 🎯 **Goal:** Breaking into Cloud Computing as a **Cloud Analyst Jr / AWS NOC Support**.
 
-I went from League of Legends servers to AWS servers. I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like in competitive gaming, the grind never stops. Every lab completed is one step closer to building scalable, secure, and efficient systems.
+I went from League of Legends servers to AWS servers. I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like
 
 ---
 
