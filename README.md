@@ -87,9 +87,9 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 
 <div align="center">
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocarrara96&show_icons=true&theme=dark&title_color=FF9900&icon_color=FF9900&text_color=ffffff&bg_color=0d1117&border_color=FF9900)
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocarrara96&show_icons=true&theme=dark&title_color=FF9900&icon_color=FF9900&text_color=ffffff&bg_color=0d1117&border_color=FF9900&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocarrara96&layout=compact&theme=dark&title_color=FF9900&text_color=ffffff&bg_color=0d1117&border_color=FF9900)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocarrara96&layout=compact&theme=dark&title_color=FF9900&text_color=ffffff&bg_color=0d1117&border_color=FF9900&cache_seconds=1800)
 
 </div>
 
