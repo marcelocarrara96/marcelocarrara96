@@ -109,7 +109,7 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 
 <div align="center">
 
-**Marcelo Carrara** · Marcelo Carrara · Transitioning into Cloud | Cloud Analyst Jr & NOC Support · Paraná, Brazil
+**Marcelo Carrara** · Transitioning into Cloud | Cloud Analyst Jr & NOC Support · Paraná, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-carrara-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=flat&logo=github&logoColor=white)](https://github.com/marcelocarrara96)
