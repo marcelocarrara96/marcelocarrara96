@@ -14,7 +14,7 @@
 
 > 🎯 **Goal:** Breaking into Cloud Computing as a **Cloud Analyst Jr / AWS NOC Support**.
 
-I went from League of Legends servers to AWS servers. I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like
+I went from League of Legends servers to AWS servers. I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like in competitive gaming, the grind never stops. Every lab completed is one step closer to building scalable, secure, and efficient systems.
 
 ---
 
