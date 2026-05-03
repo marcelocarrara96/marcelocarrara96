@@ -1,50 +1,119 @@
-# 👋 Hi, I'm Marcelo Carrara
-**Aspiring Solutions Architect · Cloud Computing · Paraná, Brazil**
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF9900,232F3E&height=200&section=header&text=Marcelo%20Carrara&fontSize=50&animation=fadeIn&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=500&lines=Always+learning%2C+always+building;Passionate+about+Cloud+%26+Technology;Turning+ideas+into+infrastructure+%E2%98%81%EF%B8%8F;Where+creativity+meets+the+cloud)](https://git.io/typing-svg)
+
+**Cloud Computing · Paraná, Brazil**
+
+</div>
 
 ---
 
 ## 🚀 About me
 
-> 🎯 **Career goal:** Transitioning into Cloud Computing with the goal of becoming a **Solutions Architect**. Passionate about designing scalable, secure, and cost-efficient cloud infrastructure on AWS.
+> 🎯 **Goal:** Transitioning into Cloud Computing with a focus on becoming a **Cloud Analyst / AWS NOC Support**. Passionate about designing scalable, secure, and efficient cloud infrastructures on AWS.
 
-I come from an competitive game(League of Legends) background and have been teaching myself programming and cloud fundamentals. Based in Prudentópolis, Paraná, building skills one service at a time.
+I went from League of Legends servers to AWS servers. Based in Prudentópolis, Paraná, I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like in competitive gaming, the grind never stops. Every lab completed is one step closer to building scalable, secure, and efficient systems.
 
 ---
 
-## ☁️ Cloud & AWS *(learning and improving)*
-![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?logo=amazonaws&logoColor=white)
-![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E)
-![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?logo=amazonaws&logoColor=white)
+## 📁 Portfolio
+
+I document all my hands-on AWS infrastructure projects in this repository:
+
+- [☁️ AWS Portfolio](https://github.com/marcelocarrara96/Portfolio)
+
+---
+
+## ☁️ Cloud & AWS *(learning & growing)*
+
+<div align="center">
+
+![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EBS](https://img.shields.io/badge/AWS-EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![ELB](https://img.shields.io/badge/AWS-ELB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/AWS-SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/AWS-Systems_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/AWS-Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E?style=for-the-badge)
+![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
 ## 🛠️ Programming
-![Python](https://img.shields.io/badge/Python-blue)
-![HTML](https://img.shields.io/badge/HTML-orange)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
 ## 📚 Currently learning
-- AWS core services & cloud architecture patterns
-- Cloud Adoption Framework (CAF) & Well-Architected Framework (WAF)
-- Networking fundamentals (VPC, subnets, routing, security groups)
-- Serverless & event-driven architectures (Lambda)
-- Git, GitHub & version control workflows
+
+- ☁️ Core AWS services and cloud architecture patterns
+- 🔐 Identity and access management with **IAM** (users, groups, policies)
+- 🗄️ Managed databases with **RDS MySQL** in **Multi-AZ** architecture
+- ⚖️ High availability with **Auto Scaling** and **Elastic Load Balancer**
+- 🖥️ Instance management with **AWS Systems Manager** (Run Command, Session Manager, Parameter Store)
+- 🌐 Networking fundamentals (VPC, subnets, routing, security groups)
+- 📋 Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF)
+- ⚡ Serverless and event-driven architectures (Lambda)
+- 🔧 Git, GitHub and version control workflows
 
 ---
 
 ## ⚡ Interests
-- Cloud architecture & solution design
-- Artificial intelligence & large language models
-- Infrastructure automation
-- Terraform, Kubernetes
+
+- 🏛️ Cloud solutions architecture
+- 🤖 Artificial intelligence and large language models (LLMs)
+- ⚙️ Infrastructure automation
+- 🚀 Terraform, Kubernetes
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/marcelo-carrara-tech/
-- Email: marcelo.carrara96@hotmail.com
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=marcelocarrara96&theme=dark&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&border=FF9900)
+
+</div>
+
+---
+
+## 🏆 Certification Roadmap
+
+<div align="center">
+
+| Certification | Status |
+|---|---|
+| AWS Certified Cloud Practitioner (CLF-C02) | ⬜ Coming soon |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | ⬜ Planned |
+| AWS Certified Solutions Architect – Professional | ⬜ Planned |
+
+</div>
+
+---
+
+<div align="center">
+
+**Marcelo Carrara** · Aspiring Solutions Architect · Paraná, Brazil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-carrara-tech/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=flat&logo=github&logoColor=white)](https://github.com/marcelocarrara96)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF9900,232F3E&height=100&section=footer)
