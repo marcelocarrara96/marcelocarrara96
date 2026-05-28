@@ -99,7 +99,7 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 
 | Certificação | Status |
 |---|---|
-| AWS Certified Cloud Practitioner (CLF-C02) | ⬜ Em breve |
+| AWS Certified Cloud Practitioner (CLF-C02) | ✅ Concluído |
 | AWS Certified Solutions Architect – Associate (SAA-C03) | ⬜ Planejado |
 | AWS Certified Solutions Architect – Professional | ⬜ Planejado |
 
