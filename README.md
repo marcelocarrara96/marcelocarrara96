@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-> 🎯 **Objetivo:** Ingressar na área de Cloud Computing como **Cloud Analyst Jr / Suporte NOC AWS**.
+> 🎯 **Objetivo:** Ingressar na área de Cloud Computing como **Cloud Analyst AWS**.
 
 Saí dos servidores do League of Legends para os servidores da AWS. Me dedico diariamente a arquitetura de infraestrutura em nuvem; porque na nuvem, assim como nos jogos, a evolução nunca para. Cada lab concluído é um passo a mais em direção a construir sistemas escaláveis, seguros e eficientes.
 
@@ -109,7 +109,7 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 
 <div align="center">
 
-**Marcelo Carrara** · AWS Cloud Practitioner | Cloud Analyst Jr · Paraná, Brazil
+**Marcelo Carrara** · AWS Cloud Practitioner | Cloud Analyst · Paraná, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-carrara-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=flat&logo=github&logoColor=white)](https://github.com/marcelocarrara96)
