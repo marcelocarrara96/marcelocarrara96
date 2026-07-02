@@ -29,7 +29,6 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 ## 🛠️ Tecnologias e Competências
 
 ### ☁️ Cloud & AWS
-<!-- Aqui ficam os seus badges atuais da imagem image_95ad9d.png -->
 ![](https://img.shields.io/badge/AWS-EC2-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-EBS-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-S3-green?style=flat-square) ![](https://img.shields.io/badge/AWS-RDS-blue?style=flat-square) ![](https://img.shields.io/badge/AWS-LAMBDA-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-ELB-blueviolet?style=flat-square) ![](https://img.shields.io/badge/AWS-CLOUDWATCH-ff69b4?style=flat-square)
 <br>
 ![](https://img.shields.io/badge/AWS-SNS-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-CLOUDFORMATION-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-SYSTEMS_MANAGER-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-AUTO_SCALING-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-IAM-red?style=flat-square)
@@ -94,3 +93,4 @@ Deixando a base consolidada de nuvem para trás, meus objetivos atuais estão vo
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FF9900,232F3E&height=100&section=footer)
+
