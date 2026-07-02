@@ -26,61 +26,38 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 
 ---
 
-## ☁️ Cloud & AWS *(aprendendo e masterizando)*
+## 🛠️ Tecnologias e Competências
 
-<div align="center">
+### ☁️ Cloud & AWS
+<!-- Aqui ficam os seus badges atuais da imagem image_95ad9d.png -->
+![](https://img.shields.io/badge/AWS-EC2-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-EBS-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-S3-green?style=flat-square) ![](https://img.shields.io/badge/AWS-RDS-blue?style=flat-square) ![](https://img.shields.io/badge/AWS-LAMBDA-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-ELB-blueviolet?style=flat-square) ![](https://img.shields.io/badge/AWS-CLOUDWATCH-ff69b4?style=flat-square)
+<br>
+![](https://img.shields.io/badge/AWS-SNS-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-CLOUDFORMATION-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-SYSTEMS_MANAGER-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-AUTO_SCALING-orange?style=flat-square) ![](https://img.shields.io/badge/AWS-IAM-red?style=flat-square)
+<br>
+![](https://img.shields.io/badge/AWS-VPC-blue?style=flat-square) ![](https://img.shields.io/badge/AWS-CAF-green?style=flat-square) ![](https://img.shields.io/badge/AWS-WAF-red?style=flat-square)
 
-![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EBS](https://img.shields.io/badge/AWS-EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![ELB](https://img.shields.io/badge/AWS-ELB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SNS](https://img.shields.io/badge/AWS-SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Systems Manager](https://img.shields.io/badge/AWS-Systems_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/AWS-Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E?style=for-the-badge)
-![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+* **Infraestrutura e Core:** Design de arquitetura em nuvem utilizando boas práticas do **CAF** (Cloud Adoption Framework) e **WAF** (Well-Architected Framework).
+* **Computação e Serverless:** Gerenciamento de instâncias (EC2), funções serverless orientadas a eventos (**AWS Lambda**) e automação via **CloudFormation**.
+* **Redes e Segurança:** Implementação e configuração de redes seguras (**VPC**, sub-redes, tabelas de roteamento, Security Groups) e governança de acessos rígida com **IAM** (usuários, grupos e políticas).
+* **Alta Disponibilidade e Monitoramento:** Configuração de ambientes resilientes com **Auto Scaling** e **Elastic Load Balancer (ELB)**, monitorados via **CloudWatch** e **SNS**.
+* **Banco de Dados e Armazenamento:** Implantação de **RDS MySQL** em arquitetura Multi-AZ para tolerância a falhas, além de armazenamento estruturado no **S3** e volumes **EBS**.
+* **Gerenciamento de Instâncias:** Administração simplificada com **AWS Systems Manager** (Run Command, Session Manager, Parameter Store).
 
-</div>
+### 🚀 Programação & DevOps
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-## 🛠️ Programação
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+* **Desenvolvimento:** Construção de scripts e automações utilizando **Python**.
+* **Controle de Versão:** Domínio de fluxos de trabalho, ramificações e versionamento de código com **Git e GitHub**.
 
 ---
 
-## 📚 Atualmente aprendendo
+## 🎯 Foco Atual de Estudos e Interesses
 
-- ☁️ Serviços principais da AWS e padrões de arquitetura em nuvem
-- 🔐 Gerenciamento de identidade e acesso com **IAM** (usuários, grupos, políticas)
-- 🗄️ Bancos de dados gerenciados com **RDS MySQL** em arquitetura **Multi-AZ**
-- ⚖️ Alta disponibilidade com **Auto Scaling** e **Elastic Load Balancer**
-- 🖥️ Gerenciamento de instâncias com **AWS Systems Manager** (Run Command, Session Manager, Parameter Store)
-- 🌐 Fundamentos de redes (VPC, sub-redes, roteamento, grupos de segurança)
-- 📋 Cloud Adoption Framework (CAF) e Well-Architected Framework (WAF)
-- ⚡ Arquiteturas serverless e orientadas a eventos (Lambda)
-- 🔧 Git, GitHub e fluxos de controle de versão
+Deixando a base consolidada de nuvem para trás, meus objetivos atuais estão voltados para a evolução em engenharia de plataforma e inteligência artificial:
 
----
-
-## ⚡ Interesses
-
-- 🏛️ Arquitetura de soluções em nuvem
-- 🤖 Inteligência artificial e modelos de linguagem (LLMs)
-- ⚙️ Automação de infraestrutura
-- 🚀 Terraform, Kubernetes
-
+* 🏗️ **Infraestrutura como Código (IaC) & Orquestração:** Especialização em automação de infraestrutura com **Terraform** e gerenciamento de containers com **Kubernetes**.
+* 🤖 **Inteligência Artificial:** Integração de modelos de linguagem (**LLMs**) e soluções de IA generativa aplicadas à engenharia de software e nuvem.
+* 🏛️ **Arquitetura de Soluções:** Evolução contínua no desenho de sistemas complexos, escaláveis e de alta eficiência.
 ---
 
 ## 📊 GitHub Stats
