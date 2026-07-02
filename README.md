@@ -52,9 +52,9 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 
 ## 🎯 Foco Atual de Estudos e Interesses
 
-Deixando a base consolidada de nuvem para trás, meus objetivos atuais estão voltados para a evolução em engenharia de plataforma e inteligência artificial:
+Meus objetivos atuais estão voltados para a evolução em engenharia de plataforma e inteligência artificial:
 
-* 🏗️ **Infraestrutura como Código (IaC) & Orquestração:** Especialização em automação de infraestrutura com **Terraform** e gerenciamento de containers com **Kubernetes**.
+* 🏗️ **Infraestrutura como Código (IaC) & Orquestração:** Especialização em automação de infraestrutura com **Terraform**
 * 🤖 **Inteligência Artificial:** Integração de modelos de linguagem (**LLMs**) e soluções de IA generativa aplicadas à engenharia de software e nuvem.
 * 🏛️ **Arquitetura de Soluções:** Evolução contínua no desenho de sistemas complexos, escaláveis e de alta eficiência.
 ---
