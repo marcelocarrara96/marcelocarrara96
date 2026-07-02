@@ -55,6 +55,7 @@ Estou documentando todos os meus projetos práticos de infraestrutura AWS neste 
 Meus objetivos atuais estão voltados para a evolução em engenharia de plataforma e inteligência artificial:
 
 * 🏗️ **Infraestrutura como Código (IaC) & Orquestração:** Especialização em automação de infraestrutura com **Terraform**
+* 🌐 **Redes Básica & Conectividade:** Aprofundamento em arquiteturas de rede básica, roteamento dinâmico, topologias híbridas (On-Premises + Nuvem)
 * 🤖 **Inteligência Artificial:** Integração de modelos de linguagem (**LLMs**) e soluções de IA generativa aplicadas à engenharia de software e nuvem.
 * 🏛️ **Arquitetura de Soluções:** Evolução contínua no desenho de sistemas complexos, escaláveis e de alta eficiência.
 ---
