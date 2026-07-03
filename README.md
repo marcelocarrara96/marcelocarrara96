@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim
 
-> 🎯 **Objetivo:** Ingressar na área de Cloud Computing como **Cloud Analyst AWS**.
+> 🎯 **Objetivo:** Ingressar na área de Cloud Computing como **Cloud Analyst**.
 
 Saí dos servidores do League of Legends para os servidores da AWS. Me dedico diariamente a arquitetura de infraestrutura em nuvem; porque na nuvem, assim como nos jogos, a evolução nunca para. Cada lab concluído é um passo a mais em direção a construir sistemas escaláveis, seguros e eficientes.
 
