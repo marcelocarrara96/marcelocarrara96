@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=500&lines=Always+learning%2C+always+building;Passionate+about+Cloud+%26+Technology;Turning+ideas+into+infrastructure+%E2%98%81%EF%B8%8F;Where+creativity+meets+the+cloud)](https://git.io/typing-svg)
 
-**Cloud Computing · Paraná, Brasil**
+**Cloud Computing · São Paulo, Brasil**
 
 </div>
 
@@ -88,7 +88,7 @@ Meus objetivos atuais estão voltados para a evolução em engenharia de platafo
 
 <div align="center">
 
-**Marcelo Carrara** · AWS Cloud Practitioner | Cloud Analyst · Paraná, Brazil
+**Marcelo Carrara** · AWS Cloud Practitioner - Cloud Analyst · São Paulo, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-carrara-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=flat&logo=github&logoColor=white)](https://github.com/marcelocarrara96)
