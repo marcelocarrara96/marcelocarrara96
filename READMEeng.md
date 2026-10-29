@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=500&lines=Always+learning%2C+always+building;Passionate+about+Cloud+%26+Technology;Turning+ideas+into+infrastructure+%E2%98%81%EF%B8%8F;Where+creativity+meets+the+cloud)](https://git.io/typing-svg)
 
-**Cloud Computing · Paraná, Brazil**
+**AWS Solutions Architect Associate & Cloud Practitioner · São Paulo, Brazil**
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About me
 
-> 🎯 **Goal:** Breaking into Cloud Computing as a **Cloud Analyst Jr / AWS NOC Support**.
+> 🎯 **Goal:** Breaking into Cloud Computing as a **Cloud Analyst**.
 
 I went from League of Legends servers to AWS servers. I dedicate myself daily to cloud infrastructure and architecture — because in the cloud, just like in competitive gaming, the grind never stops. Every lab completed is one step closer to building scalable, secure, and efficient systems.
 
@@ -109,7 +109,7 @@ I document all my hands-on AWS infrastructure projects in this repository:
 
 <div align="center">
 
-**Marcelo Carrara** · Transitioning into Cloud | Cloud Analyst Jr & NOC Support · Paraná, Brazil
+**Marcelo Carrara** · AWS Solutions Architect Associate & Cloud Practitioner | Cloud Analyst · São Paulo, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-carrara-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=flat&logo=github&logoColor=white)](https://github.com/marcelocarrara96)
