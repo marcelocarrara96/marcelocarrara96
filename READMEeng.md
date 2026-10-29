@@ -99,8 +99,8 @@ I document all my hands-on AWS infrastructure projects in this repository:
 
 | Certification | Status |
 |---|---|
-| AWS Certified Cloud Practitioner (CLF-C02) | ⬜ Coming soon |
-| AWS Certified Solutions Architect – Associate (SAA-C03) | ⬜ Planned |
+| AWS Certified Cloud Practitioner (CLF-C02) | ✅ Done |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | ✅ Done |
 | AWS Certified Solutions Architect – Professional | ⬜ Planned |
 
 </div>
